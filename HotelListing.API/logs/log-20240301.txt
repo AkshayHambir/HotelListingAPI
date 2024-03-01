@@ -1,0 +1,2 @@
+2024-03-01 13:35:28.794 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 31.1137 ms
+2024-03-01 13:37:13.261 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 42.1022 ms
